@@ -41,6 +41,7 @@ Well, do I have [the website for you][another fun place]!
 ## Images
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
 [Black cat][Black]
 
 [Orange cat][Orange]
@@ -93,7 +94,7 @@ I read this interesting quote the other day:
  * Be careful when holding the knife.
  * For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
  
- ## Paragraphs
+## Paragraphs
 
  We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
